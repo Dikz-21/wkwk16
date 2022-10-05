@@ -1,15 +1,15 @@
 //=============『 Utama 』================== //
-global.owner = ['6287898307350'] 
+global.owner = ['6285839814393'] 
 global.mods = [] 
-global.prems = [] 
+global.prems = ['6285839814393'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Gempy⛧⁩⁩'
-global.numberowner = '6287898307350'
-global.instagram = 'https://www.instagram.com/gmpyyy'
-global.github = 'https://github.com/gmpyyy'
-global.dana = '087898307350'
-global.pulsa = '087898307350'
+global.nameowner = 'Zuls⛧⁩⁩'
+global.numberowner = '6285839814393@'
+global.instagram = '-'
+global.github = 'https://github.com/Dikz-21'
+global.dana = '085839814393'
+global.pulsa = '085839814393'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'Created by'
-global.author = 'Gempy⛧⁩⁩'
+global.author = 'Zulsa⛧⁩⁩'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
